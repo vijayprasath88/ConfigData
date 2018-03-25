@@ -1,1 +1,1 @@
-app-name: Spring Cloud Config Server
+app.name: Spring Cloud Config Server Application
