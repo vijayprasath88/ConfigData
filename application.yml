@@ -1,2 +1,4 @@
 config-properties:
   message: Welcome message from config-properties github repository
+manage-states:
+  message: Message from State
